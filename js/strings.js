@@ -1,4 +1,8 @@
-//STEP 1
+//STEP 1 Create an application that prompts the user for their name. Then, find the length of characters in the person’s name. Use the alert method to display the result.
+
+let name = prompt('Please type your name:')
+alert(`Your name has ${name.length} letters`)
+
 
 //STEP 2
 
